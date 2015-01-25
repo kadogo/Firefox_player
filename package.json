@@ -1,0 +1,9 @@
+{
+    "description": "A addon that automatically launch mpv on youtube videos", 
+    "license": "MPL 2.0", 
+    "title": "Youtube-Mpv", 
+    "author": "Reventlov (@Reventl0v)", 
+    "version": "0.1", 
+    "id": "jid1-FaG0Ar75PaEa5Q", 
+    "name": "youtube-mpv"
+}
